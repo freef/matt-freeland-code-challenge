@@ -1,5 +1,8 @@
 !Matt Freeland Code Challenge for Passfolio
 
+the other repo related to this code challenge can be found here:
+https://github.com/freef/code-challenge-react-app
+
 [x] create a postgres backend using node.js
 [] create a backedn using firebase cloud store
 [] provide login/logout/sign-up actions and authenticate users
